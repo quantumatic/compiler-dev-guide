@@ -1,3 +1,3 @@
-# Ry compiler development guide and specification.
+# Ry compiler development guide.
 
 ...
